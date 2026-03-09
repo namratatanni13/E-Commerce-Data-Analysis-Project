@@ -1,1 +1,1 @@
-# E-Commerce-Data-Analysis-Project
+To analyze customer behaviour, seller performance, product category trends, and customer satisfaction in an e-commerce platform in order to identify high-value customers, top-performing sellers, fast-growing product categories, and improvement opportunities for retention and quality.
